@@ -1,1 +1,1 @@
-module git.avlyun.org/c-web/goTest
+module github.com:vivi217/golang-slice
